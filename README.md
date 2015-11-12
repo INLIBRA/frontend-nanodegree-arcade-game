@@ -1,6 +1,7 @@
 frontend-nanodegree-arcade-game
 ===============================
+Game description and comments:
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Frogger is an online game that you can play in your browser. A player has to cross the road and avoid collisin with an enemy. When collision is happen, player has to start with initial position. If the player reaches water, he won and the game restarts again. You can exit the game by closing your browser.
 
-for self-checking their submission.
+Visual assets and a game loop engine was provided by udacity.com frontend nanodegree program. app.js is the only file was modified by me.
